@@ -5,10 +5,10 @@
       },
       {
         "name": "Gas Station",
-        "location": [12.3456, 5.2719]
+        "position": [12.3456, 5.2719]
       },
       {
         "name": "Disneyland",
-        "location": [4.8765, 17.3273]
+        "position": [4.8765, 17.3273]
       }
 ]
